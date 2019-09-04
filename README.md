@@ -8,4 +8,4 @@ Portanto, o adaptador é um intermediador que recebe solicitações do cliente e
 
 A definição oficial do padrão Adapter é: “O Padrão Adapter converte uma interface de uma classe para outra interface que o cliente espera encontrar. O Adaptador permite que classes com interfaces incompatíveis trabalhem juntas”.
 
-Referência: [Padrão de Projeto Adapter em Java](https://www.devmedia.com.br/padrao-de-projeto-adapter-em-java/26467)
+Referência: [Padrão de Projeto Adapter em Java](https://www.devmedia.com.br/padrao-de-projeto-adapter-em-java/26467){:target="\_blank"}
